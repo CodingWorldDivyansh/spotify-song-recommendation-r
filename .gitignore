@@ -1,0 +1,12 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Dataset (download separately from Kaggle)
+SpotifyFeatures.csv
+
+# OS
+.DS_Store
+Thumbs.db
